@@ -1,0 +1,18 @@
+site_name: The LCONF-Data-Serialization-Format
+site_url: http://lconf-data-serialization-format.github.io/
+site_description: The LCONF-Data-Serialization-Format
+site_author: peter1000
+site_favicon: images/lconf_favicon.ico
+
+repo_url: https://github.com/LCONF-Data-Serialization-Format/LCONF-Data-Serialization-Format.github.io/
+
+pages:
+- Home: 'index.md'
+- About:
+    - Readme: about/readme.md
+    - License: about/license.md
+
+use_directory_urls: true
+copyright: Copyright (c) 2015, <strong>peter1000</strong> <a href="https://github.com/peter1000">https://github.com/peter1000</a>.
+
+theme: 'bootstrap'
