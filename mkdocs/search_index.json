@@ -1,0 +1,79 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "The LCONF-Data-Serialization-Format\n\n\nFor \nofficial\n information visit \nThe LCONF-Data-Serialization-Format web site\n.\n\n\nThe LCONF-Data-Serialization-Format in short \nLCONF\n is a lightweight, text-based, data serialization format \nwith\nemphasis on being human-friendly\n.\n\n\nLCONF builds upon concepts from \nJSON\n, \nRSONLITE\n,\n\nINI\n, and \nYAML\n.\n\n\nLCONF defines a small set of structuring rules with \nindentation\n and \nselected characters\n which provide structural\ninformation. This excellent combination allows the data to show itself in a human-friendly, easily readable and\nwriteable format.\n\n\nLCONF was specifically designed to be useful to people working with program configuration and configuration files as\nwell as for other common use cases such as data exchange and lightweight structural data storage.\n\n\nOfficial LCONF Projects\n\n\n\n\n\n\nLCONF-Data-Serialization-Format Organization\n\n\nThe official \nLCONF-Organization\n. \n\nUmbrella for LCONF-Data-Serialization-Format Projects.\n\n\n\n\n\n\nLCONF-Data-Serialization-Format.github.io\n\n\nThe \nLCONF-Organization Website repository\n.\n\n\n\n\n\n\nLCONF-Data-Serialization-Format-Logo\n\n\nThe official \nLCONF-Logo repository\n.\n\n\n\n\n\n\nLCONF-Data-Serialization-Format-Standard\n\n\nThe official LCONF-Data-Serialization-Format Standard. \n\nIt contains the latest \nLCONF-Data-Serialization-Format Specification\n (SPEC).\n\n\nThe \nLCONF-Standard Website\n.\n\n\n\n\n\n\nLCONF.jl\n\n\nA LCONF parser and emitter for Julia. \nLCONF.jl Website\n.\n\n\n\n\n\n\nPyLCONF\n\n\nA LCONF parser and emitter for Python. \nPyLCONF Website\n.\n\n\n\n\n\n\n\n\nLCONF Libraries - Parser - Emitter\n\n\nJulia\n\n\n\n\nLCONF.jl\n A LCONF parser and emitter for Julia.\n\n\n\n\nPython\n\n\n\n\nPyLCONF\n A LCONF parser and emitter for Python.\n\n\n\n\n\n\nLCONF Editor Support\n\n\nLCONF Converters\n\n\nLCONF Others\n\n\n\n\nProjects using LCONF\n\n\nIf you know of other LCONF related projects, please open an \nissue at github\n.",
+            "title": "Home"
+        },
+        {
+            "location": "/#the-lconf-data-serialization-format",
+            "text": "For  official  information visit  The LCONF-Data-Serialization-Format web site .  The LCONF-Data-Serialization-Format in short  LCONF  is a lightweight, text-based, data serialization format  with\nemphasis on being human-friendly .  LCONF builds upon concepts from  JSON ,  RSONLITE , INI , and  YAML .  LCONF defines a small set of structuring rules with  indentation  and  selected characters  which provide structural\ninformation. This excellent combination allows the data to show itself in a human-friendly, easily readable and\nwriteable format.  LCONF was specifically designed to be useful to people working with program configuration and configuration files as\nwell as for other common use cases such as data exchange and lightweight structural data storage.",
+            "title": "The LCONF-Data-Serialization-Format"
+        },
+        {
+            "location": "/#official-lconf-projects",
+            "text": "LCONF-Data-Serialization-Format Organization  The official  LCONF-Organization .  \nUmbrella for LCONF-Data-Serialization-Format Projects.    LCONF-Data-Serialization-Format.github.io  The  LCONF-Organization Website repository .    LCONF-Data-Serialization-Format-Logo  The official  LCONF-Logo repository .    LCONF-Data-Serialization-Format-Standard  The official LCONF-Data-Serialization-Format Standard.  \nIt contains the latest  LCONF-Data-Serialization-Format Specification  (SPEC).  The  LCONF-Standard Website .    LCONF.jl  A LCONF parser and emitter for Julia.  LCONF.jl Website .    PyLCONF  A LCONF parser and emitter for Python.  PyLCONF Website .",
+            "title": "Official LCONF Projects"
+        },
+        {
+            "location": "/#lconf-libraries-parser-emitter",
+            "text": "",
+            "title": "LCONF Libraries - Parser - Emitter"
+        },
+        {
+            "location": "/#julia",
+            "text": "LCONF.jl  A LCONF parser and emitter for Julia.",
+            "title": "Julia"
+        },
+        {
+            "location": "/#python",
+            "text": "PyLCONF  A LCONF parser and emitter for Python.",
+            "title": "Python"
+        },
+        {
+            "location": "/#lconf-editor-support",
+            "text": "",
+            "title": "LCONF Editor Support"
+        },
+        {
+            "location": "/#lconf-converters",
+            "text": "",
+            "title": "LCONF Converters"
+        },
+        {
+            "location": "/#lconf-others",
+            "text": "",
+            "title": "LCONF Others"
+        },
+        {
+            "location": "/#projects-using-lconf",
+            "text": "If you know of other LCONF related projects, please open an  issue at github .",
+            "title": "Projects using LCONF"
+        },
+        {
+            "location": "/about/readme/",
+            "text": "The LCONF-Data-Serialization-Format\n\n\nWeb Presence\n\n\n\n\nThe LCONF-Data-Serialization-Format \nweb site\n\n\nThe LCONF-Data-Serialization-Format \nweb github repository\n\n\nThe LCONF-Data-Serialization-Format \nweb github repository Markdown-Source Branch",
+            "title": "Readme"
+        },
+        {
+            "location": "/about/readme/#the-lconf-data-serialization-format",
+            "text": "",
+            "title": "The LCONF-Data-Serialization-Format"
+        },
+        {
+            "location": "/about/readme/#web-presence",
+            "text": "The LCONF-Data-Serialization-Format  web site  The LCONF-Data-Serialization-Format  web github repository  The LCONF-Data-Serialization-Format  web github repository Markdown-Source Branch",
+            "title": "Web Presence"
+        },
+        {
+            "location": "/about/license/",
+            "text": "Copyrights \n Licenses\n\n\nThe \nLCONF-Data-Serialization-Format website\n and associated files are:\n\n\n\n\nCopyright (c) 2015, \npeter1000\n  \nhttps://github.com/peter1000\n.",
+            "title": "License"
+        },
+        {
+            "location": "/about/license/#copyrights-licenses",
+            "text": "The  LCONF-Data-Serialization-Format website  and associated files are:   Copyright (c) 2015,  peter1000    https://github.com/peter1000 .",
+            "title": "Copyrights &amp; Licenses"
+        }
+    ]
+}
